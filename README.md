@@ -1,82 +1,51 @@
-## Привет 👋, Я Павел Чумаков  
-  
+## Привет 👋, Я Павел Чумаков
 
+Backend-разработчик на **Java** (Spring Boot, PostgreSQL, Docker) с опытом полного цикла разработки.
 
+До IT занимался проектированием объектов критической инфраструктуры — это сформировало мой подход к работе:
+- ответственность за принятые решения
+- умение соблюдать процессы
+- привычка делать надежно, без компромиссов
 
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+Мыслю системно: важно не просто написать код, а понять, как сервис будет вести себя под нагрузкой, как впишется в общую архитектуру и будет ли удобен для тех, кто с ним работает.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
+---
 
+### 🚀 Сейчас в фокусе
 
-  
+Углубляю экспертизу в **распределенных системах** (Apache Kafka,event-driven архитектура). Развиваю эти навыки на pet-проектах, где применяю изученное в практике.
 
-<br/>  
+---
 
+### 🎯 Цель
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+Ищу продуктовую команду, где смогу применять свой инженерный подход, решать интересные задачи и расти вместе с опытными коллегами.
 
+---
 
+### 🛠 Стек технологий
 
-</td><td valign="top" width="50%">
+![Java](https://img.shields.io/badge/Java-D2691E?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6A5ACD?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![H2](https://img.shields.io/badge/H2-blue?style=for-the-badge&logo=h2database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-00FFFF?style=for-the-badge&logo=hibernate&logoColor=blue)
+![Maven](https://img.shields.io/badge/Maven-FFFF00?style=for-the-badge&logo=apachemaven&logoColor=red)
+![REST API](https://img.shields.io/badge/REST%20API-8B008B?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=red)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB)
+![JUnit](https://img.shields.io/badge/JUnit-orange?style=for-the-badge&logo=junit&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8A2BE2?style=for-the-badge&logo=mockito&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+---
 
+### 📫 Связь со мной
 
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" /></a>  
-<a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumakovPaul&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChumakovPaul&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=ChumakovPaul&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<<a href="https://github.com/ChumakovPaul" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/сhumakovpaul" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+[![Email](https://img.shields.io/badge/mail-paul.chumakov@gmail.com-blue?style=for-the-badge)](mailto:paul.chumakov@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Paul_Chumakov-blue?style=for-the-badge)](https://t.me/Paul_Chumakov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-сhumakovpaul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/сhumakovpaul)
+[![Habr](https://img.shields.io/badge/Habr-Paul_Chumakov-0077B5?style=for-the-badge)](https://habr.com/ru/users/Paul_Chumakov/)
